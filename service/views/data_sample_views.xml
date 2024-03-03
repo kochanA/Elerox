@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <record id="data_sample_view_tree" model="ir.ui.view">
+        <field name="name">service.data.sample.view.tree</field>
+        <field name="model">service.data.sample</field>
+        <field name="priority" eval="16"/>
+        <field name="arch" type="xml">
+            <tree string="Data Sample List">
+                <field name="name"/>
+                <field name="price"/>
+                <field name="xyv"/>
+                <field name="kkkk"/>
+            </tree>
+        </field>
+    </record>
+</odoo>

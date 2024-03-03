@@ -1,0 +1,11 @@
+<odoo>
+    <menuitem id="menu_service" name="Service" web_icon="service,static/description/icon.png" sequence="10"/>
+<!--    <menuitem id="menu_service_data" parent="menu_service" name="Data Service" action="action_service_data"/>-->
+
+<!--    <record id="action_service_data" model="ir.actions.act_window">-->
+<!--        <field name="name">Data test</field>-->
+<!--        <field name="res_model">service.data.sample</field>-->
+<!--        <field name="view_mode">tree,form</field>-->
+<!--    </record>-->
+
+</odoo>
